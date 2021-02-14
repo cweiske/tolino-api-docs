@@ -1,0 +1,74 @@
+{
+  "reseller_id": 3,
+  "client_type": "TOLINO_VISION_3",
+  "version": "1.7.0",
+  "lastModified": 1603111725000,
+  "config": {
+    "URL_HANDSHAKE": "https://management.mytolino.com/index.html?reseller=3&platform=eink",
+    "STRING_BRAND_NAME": "Thalia.de",
+    "URL_SHOP_EBOOK_SEARCH": "https://ereader.thalia.de/de.thalia.ers.sun/api/2004/sun/suche?einsprung=firmware&search_complex=",
+    "FAMILY_SHARING_ACTIVE": "true",
+    "LCP_ACTIVATED": "true",
+    "URL_SHOP_EBOOK_START_PAGE": "https://ereader.thalia.de/de.thalia.ers.sun/api/2004/sun/startseite?einsprung=firmware",
+    "SHOP_BASE": "https://ereader.thalia.de/de.thalia.ers.artikel/api/2004/artikel/details/?einsprung=reco",
+    "URL_OAUTH_ACCESSTOKEN_FAMILY": "https://thalia.de/auth/oauth2/token?client_secret=gU5a7CA9",
+    "IS_EXTERNAL_LINK_ENABLED": "true",
+    "URL_RESELLER_LOGO": "http://www.tpereader.thalia.de/logos/Prod/thalia_de_sw_klein.png",
+    "IS_LCP_ACTIVATED": "false",
+    "URL_BOOKSHELF": "https://bosh.pageplace.de/bosh/rest",
+    "OAUTH_CLIENT_ID": "treadervision3",
+    "ENABLE_DATA_RECOVERY": "true",
+    "URL_DEVICE_MANAGEMENT": "https://management.mytolino.com/index.html?reseller=3&platform=eink",
+    "URL_BROWSER_START_PAGE": "https://www.google.de",
+    "ADVERTISING_REDIRECT_BASE": "redirect.mytolino.com",
+    "URL_OAUTH_AUTHORIZATION": "https://thalia.de/auth/oauth2/authorize?response_type=code&scope=SCOPE_BOSH SCOPE_BUCHDE SCOPE_MANDANT_ID.2004 SCOPE_LOGIN FAMILY&redirect_uri=epublishing://login&x_buchde.skin_id=17",
+    "RECOMMENDATIONS_IS_SHUFFLE_ENABLED": "false",
+    "URL_OAUTH_ACCESSTOKEN": "https://thalia.de/auth/oauth2/token?client_secret=gU5a7CA9",
+    "URL_FAMILY_SHARING_MANUAL": "https://mytolino.de/family-sharing-handbuch-ereader",
+    "URL_OAUTH_REVOKETOKEN": "https://thalia.de/auth/oauth2/revoke"
+  },
+  "configLanguageSpecific": [
+    {
+      "language": "FR",
+      "languageConfig": {
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-mail: info@thalia.de##Hotline: +49 (0) 251 530 94 44##(Du lundi au vendredi de 9 h à 18 h)",
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Choisissez vos coups de cœur personnels parmi plus d'un million d'ebooks dans l'ebook-shop de Thalia.##Lisez parallèlement sur la tablette ou sur le smartphone avec l'appli eReading de Thalia.##Synchronisez vos ebooks en sécurité, confortablement et gratuitement à travers le tolino Cloud sur plusieurs appareils.##Avec votre tolino, utilisez gratuitement tous les hotspots de la Deutsche Telekom."
+      }
+    },
+    {
+      "language": "EN",
+      "languageConfig": {
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-Mail: info@thalia.de##Hotline: +49 (0)251 530 94 44##(German speaking customer care:##Monday to Friday, 9 a.m. to 6 p.m.)",
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Browse through over 1,000,000 e-books in the Thalia shop.##Use the Thalia eBooks app to read in parallel on your tablet, computer or smartphone.##Synchronize your titles across various devices securely and free of charge via the tolino Cloud.##Use all Deutsche Telekom HotSpots free of charge with your tolino."
+      }
+    },
+    {
+      "language": "ES",
+      "languageConfig": {
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-Mail: info@thalia.de##Línea directa: +49 (0) 251 530 94 44##(Lunes a viernes de 9:00 a 18:00 horas)",
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Seleccione de entre más de un millo de libros electrónicos en la tienda de eBooks de Thalia su destacados personalizados.##Lea de forma paralela con la aplicación de lectura digital de Thalia en su tableta o smartphone.##Sincronice sus libros electrónicos de forma segura, cómoda y gratuita a través de la tolino Cloud en distintos dispositivos.##Utilice con su dispositivo tolino de forma gratuita todos los HotSpots de la Deutsche Telekom."
+      }
+    },
+    {
+      "language": "NL",
+      "languageConfig": {
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-Mail: info@thalia.de##Hotline: +49 (0) 251 530 94 44##(Maandag t/m vrijdag 9:00 uur - 18:00 uur)",
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Kies uit meer dan een miljoen ebooks in de Thalia eBook-Shop uw persoonlijke favorieten.##Lees met de Thalia eReading-app ook parallel op de tablet of smartphone.##Synchroniseer uw ebooks veilig, comfortabel en kosteloos via de tolino Cloud op verschillende apparaten.##Maak met uw tolino gratis gebruik van alle HotSpots van de Deutsche Telekom."
+      }
+    },
+    {
+      "language": "DE",
+      "languageConfig": {
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Wählen Sie aus über einer Million eBooks im Thalia eBook-Shop Ihre persönlichen Highlights.##Lesen Sie mit der Thalia eReading App auch parallel auf dem Tablet oder Smartphone.##Synchronisieren Sie Ihre eBooks sicher, komfortabel und kostenlos über die tolino Cloud auf verschiedenen Geräten.##Nutzen Sie mit Ihrem tolino alle HotSpots der Deutschen Telekom kostenlos.",
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-Mail: info@thalia.de##Rufnummer: 0251 5309 444##(Montag bis Freitag 9 - 18 Uhr, Samstag 9:30 - 18 Uhr)"
+      }
+    },
+    {
+      "language": "IT",
+      "languageConfig": {
+        "STRING_ARRAY_SUPPORT_CONTACT": "E-mail: info@thalia.de##Hot line: +49 (0) 251 530 94 44##(da lunedì a venerdì, dalle ore 9 alle ore 18)",
+        "STRING_ARRAY_ACTIVATION_ADVANTAGES": "Scegli le tue letture preferite tra oltre un milione di eBook nell'eBook shop Thalia.##Con l'app Thalia eReading, leggi in parallelo anche sul tablet o lo smartphone.##Sincronizza i tuoi eBook in modo sicuro, comodo e gratuito su dispositivi diversi tramite tolino Cloud.##Con il tuo tolino, sfrutta gratis tutti gli hot spot di Deutsche Telekom."
+      }
+    }
+  ]
+}

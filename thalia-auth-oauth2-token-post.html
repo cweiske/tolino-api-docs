@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POST https://thalia.de/auth/oauth2/token</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <section id="post-https-thalia-de-auth-oauth2-token">
+        <h1><code>POST https://thalia.de/auth/oauth2/token</code></h1>
+        <ol type="1">
+            <li>Log in to obtain an access token.</li>
+            <li>Generate access token from a refresh token.</li>
+        </ol>
+        <p>Step 4 of the <a id="id2" class="problematic" href="#id1">`Login process`_</a>.</p>
+        <section id="source">
+            <h2>Source</h2>
+            <p>This URL is provided in the reseller configuration, key <code>config.URL_OAUTH_ACCESSTOKEN</code>.</p>
+        </section>
+        <section id="request">
+            <h2>Request</h2>
+            <dl>
+                <dt>GET parameters</dt>
+                <dd>
+                    <dl>
+                        <dt><code>client_secret</code></dt>
+                        <dd>
+                            <p>Provided in the reseller configuration.</p>
+                            <p>Example: <code>gU5a7CA9</code></p>
+                        </dd>
+                    </dl>
+                </dd>
+                <dt>Headers</dt>
+                <dd>
+                    <dl>
+                        <dt><code>Content-Type</code></dt>
+                        <dd><code>application/x-www-form-urlencoded</code></dd>
+                        <dt><code>User-Agent</code></dt>
+                        <dd><code>DT_EINK_10_NETRONIX DT_EINK_UPD_PP_14.1.0</code></dd>
+                        <dt><code>Cookie</code>:</dt>
+                        <dd>Example: <code>gcor=SIDYBbxYkmvUvoO8hy@2Sfx4QAAA9o; ab_bucket=9; ab_container=3; OAUTH-JSESSIONID=9C95C20ECEE74164E76F60C205147822.15acdb90</code></dd>
+                        <dt><code>Cookie2</code></dt>
+                        <dd><code>$Version=1</code></dd>
+                    </dl>
+                </dd>
+                <dt>POST parameters</dt>
+                <dd>
+                    <dl>
+                        <dt><code>grant_type</code>:</dt>
+                        <dd><code>authorization_code</code></dd>
+                        <dt><code>redirect_uri</code></dt>
+                        <dd>
+                            <p><code>epublishing://login</code></p>
+                            <p>The e-reader internal login process</p>
+                        </dd>
+                        <dt><code>code</code></dt>
+                        <dd>
+                            <p>Obtained from login form page redirect.</p>
+                            <p>Example: <code>GK6jDC</code></p>
+                        </dd>
+                        <dt><code>client_id</code></dt>
+                        <dd>Example: <code>treadervision3</code></dd>
+                    </dl>
+                </dd>
+            </dl>
+        </section>
+        <section id="response">
+            <h2>Response</h2>
+            <p>HTTP status code <code>200 OK</code></p>
+            <pre class="code" source="thalia-auth-oauth2-token-post.response.json">{
+    "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWRpZW5jZSI6InRyZWFkZXJ2aXNpb24zIiwiZXhwaXJlcyI6IjE2MTIxMzgzOTczMzMiLCJ4X2J1Y2hkZS51c2VyX2lk...",
+    "expires_in": 14399,
+    "refresh_token": "ad351547-bcb3-43b2-9914-d88f0a3704c8",
+    "scope": "FAMILY SCOPE_BOSH SCOPE_BUCHDE SCOPE_LOGIN",
+    "token_type": "bearer",
+    "x_buchde.mandant_id": "2004",
+    "x_buchde.user_id": "39549013"
+}</pre>
+        </section>
+    </section>
+    <section class="system-messages">
+        <h1>Docutils System Messages</h1>
+        <div id="id1">
+            <h1>System Message: ERROR/3 (thalia-auth-oauth2-token-post.rst line 7) <a href="#id2">id2</a></h1>
+            <p>Unknown target name: "login process".</p>
+        </div>
+    </section>
+</body>
+</html>

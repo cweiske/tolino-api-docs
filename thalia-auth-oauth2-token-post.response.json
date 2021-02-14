@@ -1,0 +1,9 @@
+{
+    "access_token": "eyJhbGciOiJSUzI1NiJ9.eyJhdWRpZW5jZSI6InRyZWFkZXJ2aXNpb24zIiwiZXhwaXJlcyI6IjE2MTIxMzgzOTczMzMiLCJ4X2J1Y2hkZS51c2VyX2lk...",
+    "expires_in": 14399,
+    "refresh_token": "ad351547-bcb3-43b2-9914-d88f0a3704c8",
+    "scope": "FAMILY SCOPE_BOSH SCOPE_BUCHDE SCOPE_LOGIN",
+    "token_type": "bearer",
+    "x_buchde.mandant_id": "2004",
+    "x_buchde.user_id": "39549013"
+}
