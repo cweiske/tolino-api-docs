@@ -3,12 +3,13 @@
 ======================================================
 Step 5 in the `Login process`_.
 
-Check if the device has been registered already to a user. (? FIXME)
+FIXME: Check if the device has been registered already to a user.
 
 Example ``xxx`` value: ``665fc389ef4e47258c5db9fa7821bd19``.
 
 There is some explanation about the hardware id in
 `tolino-python: tolinocloud.py <https://github.com/hzulla/tolino-python/blob/c655dbcd1b23e3874fd7dc78736570ac27ff5123/tolinocloud.py#L42>`_.
+
 
 Request
 =======

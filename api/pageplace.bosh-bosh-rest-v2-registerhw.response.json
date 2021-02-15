@@ -1,0 +1,42 @@
+{
+  "initAppResponse": {
+    "deviceKey": "5Iq76M_tEoze3w49c-IOug",
+    "update": 0,
+    "updateVersion": "14.1.0",
+    "userId": "2086910932",
+    "config": [
+      {
+        "key": "CHANGELOG_NL",
+        "value": "Verbeterde prestaties, verbeterde functies en betere integratie van onze nieuwe tolino-leeservaring. (BÈTA)\nWe hebben de software verbeterd, bugs verholpen en gezorgd voor meer stabiliteit."
+      },
+      {
+        "key": "CHANGELOG_EN",
+        "value": "Improved performance, feature enhancement and better integration of our new tolino reading experience. (BETA)\nWe have improved the software, fixed bugs and ensured more stability."
+      },
+      {
+        "key": "CHANGELOG_FR",
+        "value": "Amélioration des performances, amélioration des fonctionnalités et meilleure intégration de notre nouvelle expérience de lecture tolino. (BÊTA)\nNous avons amélioré le logiciel, corrigé des bugs et assuré plus de stabilité."
+      },
+      {
+        "key": "DOWNLOAD_FILE_MD5",
+        "value": "930d0eb9e4c861a43d8360fc8dbc0ced"
+      },
+      {
+        "key": "CHANGELOG_ES",
+        "value": "Rendimiento mejorado, mejora de funciones y mejor integración con nuestra nueva experiencia de lectura de tolino. (BETA)\nHemos mejorado el software, arreglado los errores y asegurado una mayor estabilidad.\n"
+      },
+      {
+        "key": "CHANGELOG_DE",
+        "value": "Verbesserte Leistung, Funktionserweiterungen und bessere Integration unseres neuen tolino-Leseerlebnisses (BETA).\nWir haben die Software verbessert, Fehler behoben und für mehr Stabilität gesorgt.\n"
+      },
+      {
+        "key": "DOWNLOAD_URL",
+        "value": "https://download.pageplace.de/ereader/14.1.0/alldevices/update.zip"
+      },
+      {
+        "key": "CHANGELOG_IT",
+        "value": "Prestazioni migliorate, funzionalità avanzate e migliore integrazione della nostra nuova esperienza di lettura tolino. (BETA)\nAbbiamo migliorato il software, corretto i bug e assicurato una maggiore stabilità.\n"
+      }
+    ]
+  }
+}
