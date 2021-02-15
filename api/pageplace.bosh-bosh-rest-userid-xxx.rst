@@ -3,15 +3,12 @@
 ======================================================
 Step 5 in the `Login process`_.
 
+Check if the device has been registered already to a user. (? FIXME)
+
 Example ``xxx`` value: ``665fc389ef4e47258c5db9fa7821bd19``.
 
-FIXME: What is the ``xxx`` value? Hardware ID? User ID?
-If yes, where does the server know it from?
-
-FIXME: Find out how to transform the ``x_buchde.user_id`` from
-`POST https://thalia.de/auth/oauth2/token`_ into that user ID here,
-and if it is really the same.
-
+There is some explanation about the hardware id in
+`tolino-python: tolinocloud.py <https://github.com/hzulla/tolino-python/blob/c655dbcd1b23e3874fd7dc78736570ac27ff5123/tolinocloud.py#L42>`_.
 
 Request
 =======
