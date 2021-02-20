@@ -1,0 +1,16 @@
+Server:                         nginx/1.6.2
+Date:                           Sun, 31 Jan 2021 20:13:19 GMT
+Content-Length:                 0
+Connection:                     keep-alive
+Pragma:                         no-cache
+Expires:                        Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control:                  no-cache
+Cache-Control:                  no-store
+Timestamp:                      1612123999282
+Access-Control-Allow-Origin:    *
+Access-Control-Allow-Methods:   POST,GET,PUT,DELETE,PATCH
+Access-Control-Allow-Headers:   t_auth_token, hardware_id, Content-Type, If-Modified-Since, m_id, authorization, X-Audiobook-Enabled, client_type, reseller_id, hardware_type,
+                                client_version, os_version, language_code
+Access-Control-Max-Age:         1728000
+Access-Control-Expose-Headers:  response_timestamp,Date,Timestamp
+Vary:                           User-Agent

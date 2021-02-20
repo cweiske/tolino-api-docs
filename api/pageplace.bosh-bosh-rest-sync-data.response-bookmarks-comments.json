@@ -1,0 +1,73 @@
+{
+  "revision": "HMwySkb2QvTCBdlNAyjAEpf+UKHoFxsaWV3yQdMYlu9lJYnoUMNDwRowMvHSFOu3DsPw+mRfrkPaZiXBeqJ8MitfmhiSoQlNBT6FYjaD4rW6Bcrv7xGvauypLFYkaq9o",
+  "patches": [
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783641243609_A40398678/comments/606778818",
+      "value": {
+        "revision": "Lmu7TngaxhKWHdv2FFktQFdz4lyc7kDFlZaAS+HeJfHWU2bv9FiPCTCUkDXUo7SKAncqxyDwCxG95t2u0JBMdstap9i8kDytw9JveNZhINal0xDzllUVFMfKm7HBt9m7cLdbVaqPZBKTi8XqBRFK8Q==",
+        "modified": 1612116489908,
+        "text": "»Würdet ihr die Aufgabe ablehnen, wenn es so wäre?«, fragte ich zurück.",
+        "startPosition": "OEBPS/0159E511E7C147BFA524CA3DDE0E937C.xhtml#point(/1/4/2/78/1:0)",
+        "endPosition": "OEBPS/0159E511E7C147BFA524CA3DDE0E937C.xhtml#point(/1/4/2/78/1:76)"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783641243609_A40398678/bookmark/606777963",
+      "value": {
+        "revision": "Lmu7TngaxhKWHdv2FFktQFdz4lyc7kDFlZaAS+HeJfHWU2bv9FiPCTCUkDXUo7SKUVTLMA8s57HlhB0Q8mKpZDUmAw+NJyupu0vRits89G6tnbMbc+VW/XxzNQfKsE9BQWfoivx5yoKm7w3r+jgQLw==",
+        "modified": 1612116494839,
+        "progress": 0.26923078,
+        "position": "OEBPS/0159E511E7C147BFA524CA3DDE0E937C.xhtml#point(/1/4/2/70/1:0)",
+        "currentPosition": "7",
+        "lastPosition": "26"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783739673417_A27522964/bookmark/606779074",
+      "value": {
+        "revision": "HMwySkb2QvTCBdlNAyjAEpf+UKHoFxsaWV3yQdMYlu/jWquQkHI8AFujlvCDEN6Az/cX05Tmdnoti+PCVOZHjmK0futElUUgQ9l34qpnOLlQbyTlM7SrR6xheKDt04fTHhP1CTD45tmWERGvV3e+xA==",
+        "modified": 1612116931592,
+        "progress": 0.043393,
+        "position": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/1/1:0)",
+        "lastPosition": "16"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783739673417_A27522964/comments/606780680",
+      "value": {
+        "revision": "HMwySkb2QvTCBdlNAyjAEpf+UKHoFxsaWV3yQdMYlu/jWquQkHI8AFujlvCDEN6AxhqFD9WE9tS0SL4VnneAHAwlYWr6D5bEdS9Fyg0Mu/EYUTVuwD28pyiFSp++vhGtDKhUCfPCS0Ohi0C7PXJGtA==",
+        "modified": 1612116905561,
+        "text": "er einen Gleiter starten",
+        "startPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/4/1:768)",
+        "endPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/4/1:792)"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783739673417_A27522964/comments/606780681",
+      "value": {
+        "revision": "HMwySkb2QvTCBdlNAyjAEpf+UKHoFxsaWV3yQdMYlu/jWquQkHI8AFujlvCDEN6APKHWbB8HNf1ruRvf+UK5IkjbMGqptZkx8vMscjqcvlVw68+UeS+OAUKuotNqOLayfG2hLLmPZRGz1CyqOZL2Pg==",
+        "modified": 1612116914525,
+        "text": "Der Sturm brach ohne Vorwarnung los.",
+        "startPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/2/1:0)",
+        "endPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/2/1:36)"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/publications/DT0400.9783739673417_A27522964/comments/606780682",
+      "value": {
+        "revision": "HMwySkb2QvTCBdlNAyjAEpf+UKHoFxsaWV3yQdMYlu/jWquQkHI8AFujlvCDEN6A/r2JVv++Ix5Vk+IcC/9AXtWuTStnbObbxNIzKNHLGFS4L1ZLK8QsUFpdQfGAH5B9C/Sr3Ra+qLV2ayYULwCxkA==",
+        "modified": 1612116925942,
+        "note": "eine Notiz",
+        "text": "kürzester Zeit",
+        "startPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/2/1:263)",
+        "endPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/2/1:278)"
+      }
+    }
+  ]
+}

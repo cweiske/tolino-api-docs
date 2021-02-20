@@ -24,8 +24,12 @@ Use cases
 
 API calls
 *********
+.. include:: api/pageplace.bosh-bosh-rest-handshake-resellers.rst
 .. include:: api/pageplace.bosh-bosh-rest-inventory-count.rst
 .. include:: api/pageplace.bosh-bosh-rest-ping.rst
+.. include:: api/pageplace.bosh-bosh-rest-recommendation-xyz.rst
+.. include:: api/pageplace.bosh-bosh-rest-sync-data.rst
+.. include:: api/pageplace.bosh-bosh-rest-time.rst
 .. include:: api/pageplace.bosh-bosh-rest-userid-xxx.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-registerhw.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-resellerconfig.rst

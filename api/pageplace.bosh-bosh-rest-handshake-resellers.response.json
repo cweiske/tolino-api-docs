@@ -1,0 +1,108 @@
+{
+  "resellerListResponse": {
+    "resellers": [
+      {
+        "reseller_id": "81",
+        "reseller_name": "eBook.de",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/81/android/81_reseller_logo.png"
+      },
+      {
+        "reseller_id": "80",
+        "reseller_name": "myBookShop",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/80/android/80_reseller_logo.png"
+      },
+      {
+        "reseller_id": "30",
+        "reseller_name": "buecher.de",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/30/android/30_reseller_logo.png"
+      },
+      {
+        "reseller_id": "90",
+        "reseller_name": "IBS.it",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/90/android/90_reseller_logo.png"
+      },
+      {
+        "reseller_id": "23",
+        "reseller_name": "OSIANDER",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/23/Android/23_reseller_logo.png"
+      },
+      {
+        "reseller_id": "24",
+        "reseller_name": "MAYERSCHE",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/24/android/24_reseller_logo.png"
+      },
+      {
+        "reseller_id": "1",
+        "reseller_name": "PagePlace",
+        "reseller_connected": false,
+        "reseller_logo": "http://www.pageplace.de/media/eink-reader/logo_pageplace_hd.png"
+      },
+      {
+        "reseller_id": "4",
+        "reseller_name": "Thalia.at",
+        "reseller_connected": false,
+        "reseller_logo": "https://images.thalia.de/md4/ereader/Logo-eReading.png"
+      },
+      {
+        "reseller_id": "7",
+        "reseller_name": "Buch.ch",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/7/android/7_reseller_logo.png"
+      },
+      {
+        "reseller_id": "11",
+        "reseller_name": "Weltbild.at",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/11/android/11_reseller_logo.png"
+      },
+      {
+        "reseller_id": "12",
+        "reseller_name": "Weltbild.ch",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/12/android/12_reseller_logo.png"
+      },
+      {
+        "reseller_id": "13",
+        "reseller_name": "Hugendubel",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/13/android/13_reseller_logo.png"
+      },
+      {
+        "reseller_id": "3",
+        "reseller_name": "Thalia.de",
+        "reseller_connected": true,
+        "reseller_logo": "https://images.thalia.de/md2/ereader/Logo-eReading.png"
+      },
+      {
+        "reseller_id": "10",
+        "reseller_name": "Weltbild.de",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/10/android/10_reseller_logo.png"
+      },
+      {
+        "reseller_id": "8",
+        "reseller_name": "Orell Füssli",
+        "reseller_connected": false,
+        "reseller_logo": "https://images.thalia.de/md37/ereader/Logo-eReading.png"
+      },
+      {
+        "reseller_id": "91",
+        "reseller_name": "LIBRACCIO",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/91/android/91_reseller_logo.png"
+      },
+      {
+        "reseller_id": "82",
+        "reseller_name": "LIBRIS.NL",
+        "reseller_connected": false,
+        "reseller_logo": "https://download.pageplace.de/icons_rc/82/android/82_reseller_logo.png"
+      }
+    ]
+  }
+}
