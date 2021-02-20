@@ -4,6 +4,8 @@ Tolino cloud API documentation
 
 Servers the Tolino Vision 3/4 HD talk to (Firmware 14.x).
 
+Work in progress.
+
 .. contents::
    :depth: 2
 

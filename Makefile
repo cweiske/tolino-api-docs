@@ -3,5 +3,6 @@ build:
 	rst2html5\
 	 --bootstrap-css\
 	 --stylesheet-path=styles.css --embed-stylesheet\
+	 --title="Tolino cloud API documentation"\
 	 README.rst tolino-api-docs.htm
 	sed -i "s/##UPDATE##/`date -Is`/" tolino-api-docs.htm
