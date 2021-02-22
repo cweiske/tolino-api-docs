@@ -24,6 +24,7 @@ Use cases
 
 API calls
 *********
+.. include:: api/pageplace.bosh-bosh-rest-dictionary-list.rst
 .. include:: api/pageplace.bosh-bosh-rest-handshake-resellers.rst
 .. include:: api/pageplace.bosh-bosh-rest-inventory-count.rst
 .. include:: api/pageplace.bosh-bosh-rest-ping.rst
@@ -33,6 +34,9 @@ API calls
 .. include:: api/pageplace.bosh-bosh-rest-userid-xxx.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-registerhw.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-resellerconfig.rst
+.. include:: api/pageplace.family-v1-family.rst
+.. include:: api/pageplace.family-v1-myself.rst
+.. include:: api/pageplace.family-v1-shares.rst
 .. include:: api/pageplace.inventory-v2-inventory.rst
 .. include:: api/thalia-auth-oauth2-authorize.rst
 .. include:: api/thalia-auth-oauth2-token-post.rst

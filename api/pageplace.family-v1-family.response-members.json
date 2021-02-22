@@ -1,0 +1,13 @@
+{
+    "maxMembers": 6,
+    "members": [
+        {
+            "membershipId": 67674,
+            "nickname": "oldtest"
+        },
+        {
+            "membershipId": 67675,
+            "nickname": "dev"
+        }
+    ]
+}

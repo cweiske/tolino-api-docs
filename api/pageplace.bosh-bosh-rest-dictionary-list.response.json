@@ -1,0 +1,204 @@
+{
+  "dictionaryListResponse": {
+    "dictionaryEntries": [
+      {
+        "id": 15,
+        "filename": "EN-IT.quickdic",
+        "file_sha1": "bf31e5d240e8c044c11b0e338fe520648d701dec",
+        "download_url": "https://download.pageplace.de/dictionary/EN-IT.quickdic.zip",
+        "file_size": 107805685,
+        "language_from": "EN",
+        "language_to": "IT",
+        "last_modified": 1470058728000,
+        "created": 1416587670000
+      },
+      {
+        "id": 16,
+        "filename": "IT-ES.quickdic",
+        "file_sha1": "8d891665a0f3f894fe7f8565cedd301c7e92095f",
+        "download_url": "https://download.pageplace.de/dictionary/IT-ES.quickdic.zip",
+        "file_size": 706110,
+        "language_from": "IT",
+        "language_to": "ES",
+        "last_modified": 1416587671000,
+        "created": 1416587671000
+      },
+      {
+        "id": 17,
+        "filename": "IT-FR.quickdic",
+        "file_sha1": "fd0e84f7273ed8642f2ca1b55dc679607245b068",
+        "download_url": "https://download.pageplace.de/dictionary/IT-FR.quickdic.zip",
+        "file_size": 700760,
+        "language_from": "IT",
+        "language_to": "FR",
+        "last_modified": 1416587672000,
+        "created": 1416587672000
+      },
+      {
+        "id": 1410196761,
+        "filename": "FR.quickdic",
+        "file_sha1": "beee10118cfd6ee32542a3a5eee7a71a3007e798",
+        "download_url": "https://download.pageplace.de/dictionary/FR.quickdic.zip",
+        "file_size": 116064083,
+        "language_from": "FR",
+        "language_to": null,
+        "last_modified": 1391428950000,
+        "created": 1384855786000
+      },
+      {
+        "id": 1410196762,
+        "filename": "ES.quickdic",
+        "file_sha1": "7f994be6876686dd0a4432060266b0c4dbfb41db",
+        "download_url": "https://download.pageplace.de/dictionary/ES.quickdic.zip",
+        "file_size": 53858404,
+        "language_from": "ES",
+        "language_to": null,
+        "last_modified": 1384855788000,
+        "created": 1384855788000
+      },
+      {
+        "id": 8,
+        "filename": "DE.quickdic",
+        "file_sha1": "dedc33464bfd0a34ee401dba6e3c8856f3219634",
+        "download_url": "https://download.pageplace.de/dictionary/DE.quickdic.zip",
+        "file_size": 79032764,
+        "language_from": "DE",
+        "language_to": null,
+        "last_modified": 1384855908000,
+        "created": 1380285437000
+      },
+      {
+        "id": 9,
+        "filename": "NL.quickdic",
+        "file_sha1": "8e4fa722779bc5b54089bd85856890ea32d2ab71",
+        "download_url": "https://download.pageplace.de/staging/dictionary/NL.quickdic.zip",
+        "file_size": 24209379,
+        "language_from": "NL",
+        "language_to": null,
+        "last_modified": 1403259975000,
+        "created": 1403259975000
+      },
+      {
+        "id": 10,
+        "filename": "DE_NL.quickdic",
+        "file_sha1": "2ef65bddb61b6a0ae502e803e456e238671f03a1",
+        "download_url": "https://download.pageplace.de/staging/dictionary/DE_NL.quickdic.zip",
+        "file_size": 947379,
+        "language_from": "DE",
+        "language_to": "NL",
+        "last_modified": 1403260008000,
+        "created": 1403260008000
+      },
+      {
+        "id": 11,
+        "filename": "EN_NL.quickdic",
+        "file_sha1": "6084cddce46832aea01eb58542a4844a2ae4ee3e",
+        "download_url": "https://download.pageplace.de/staging/dictionary/EN_NL.quickdic.zip",
+        "file_size": 5687123,
+        "language_from": "NL",
+        "language_to": "EN",
+        "last_modified": 1403260051000,
+        "created": 1403260051000
+      },
+      {
+        "id": 12,
+        "filename": "FR_NL.quickdic",
+        "file_sha1": "88f5974614a98d328930149e1d009b41470c17fb",
+        "download_url": "https://download.pageplace.de/staging/dictionary/FR_NL.quickdic.zip",
+        "file_size": 3991711,
+        "language_from": "NL",
+        "language_to": "FR",
+        "last_modified": 1403260078000,
+        "created": 1403260078000
+      },
+      {
+        "id": 13,
+        "filename": "NO_NL.quickdic",
+        "file_sha1": "1e20eb807ff5fdf2169d905ce23fa2d74732ffca",
+        "download_url": "https://download.pageplace.de/staging/dictionary/NO_NL.quickdic.zip",
+        "file_size": 847956,
+        "language_from": "NL",
+        "language_to": "NO",
+        "last_modified": 1403260107000,
+        "created": 1403260107000
+      },
+      {
+        "id": 1610761154,
+        "filename": "EN-FR.quickdic",
+        "file_sha1": "5c419822146d2ad3f941fc2659c4346c53a46f06",
+        "download_url": "https://download.pageplace.de/staging/dictionary/EN-FR.quickdic.zip",
+        "file_size": 97389181,
+        "language_from": "EN",
+        "language_to": "FR",
+        "last_modified": 1463490158000,
+        "created": 1463490158000
+      },
+      {
+        "id": 2,
+        "filename": "DE-EN.quickdic",
+        "file_sha1": "eab9d5be9fc01a7cb9e689f865febf088bd9f56c",
+        "download_url": "https://download.pageplace.de/dictionary/DE-EN.quickdic.zip",
+        "file_size": 49376638,
+        "language_from": "DE",
+        "language_to": "EN",
+        "last_modified": 1381395549000,
+        "created": null
+      },
+      {
+        "id": 3,
+        "filename": "DE-ES.quickdic",
+        "file_sha1": "6b26b23ad8658bdffb7d68c54451f36734fde3e2",
+        "download_url": "https://download.pageplace.de/dictionary/DE-ES.quickdic.zip",
+        "file_size": 2742937,
+        "language_from": "DE",
+        "language_to": "ES",
+        "last_modified": 1381395549000,
+        "created": null
+      },
+      {
+        "id": 4,
+        "filename": "DE-FR.quickdic",
+        "file_sha1": "0f0bb4334b8c5ea21fa3b7063a36943914793746",
+        "download_url": "https://download.pageplace.de/dictionary/DE-FR.quickdic.zip",
+        "file_size": 12732080,
+        "language_from": "DE",
+        "language_to": "FR",
+        "last_modified": 1381395549000,
+        "created": null
+      },
+      {
+        "id": 5,
+        "filename": "DE-IT.quickdic",
+        "file_sha1": "236b5aae8488ce1b7709f84d7eab1a2d75152405",
+        "download_url": "https://download.pageplace.de/dictionary/DE-IT.quickdic.zip",
+        "file_size": 8348482,
+        "language_from": "DE",
+        "language_to": "IT",
+        "last_modified": 1381395549000,
+        "created": null
+      },
+      {
+        "id": 6,
+        "filename": "EN.quickdic",
+        "file_sha1": "9b541e02abcb9f2cfe06ae5762dc00f1919c8495",
+        "download_url": "https://download.pageplace.de/dictionary/EN.quickdic.zip",
+        "file_size": 113927204,
+        "language_from": "EN",
+        "language_to": null,
+        "last_modified": 1381395549000,
+        "created": null
+      },
+      {
+        "id": 7,
+        "filename": "IT.quickdic",
+        "file_sha1": "5970a7ca9bf905693c4138ad0fbbc3b1c0f8c92d",
+        "download_url": "https://download.pageplace.de/dictionary/IT.quickdic.zip",
+        "file_size": 11566432,
+        "language_from": "IT",
+        "language_to": null,
+        "last_modified": 1416392412000,
+        "created": null
+      }
+    ]
+  }
+}

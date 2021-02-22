@@ -1,0 +1,30 @@
+[
+  {
+    "type": "SHARED",
+    "publicationId": "DT0400.9783739673417_A27522964",
+    "sharer": {
+      "membershipId": 67675,
+      "nickname": "dev"
+    },
+    "receivers": [
+      {
+        "membershipId": 67674,
+        "nickname": "oldtest"
+      }
+    ]
+  },
+  {
+    "type": "SHARED",
+    "publicationId": "DT0400.9783641243609_A40398678",
+    "sharer": {
+      "membershipId": 67675,
+      "nickname": "dev"
+    },
+    "receivers": [
+      {
+        "membershipId": 67674,
+        "nickname": "oldtest"
+      }
+    ]
+  }
+]
