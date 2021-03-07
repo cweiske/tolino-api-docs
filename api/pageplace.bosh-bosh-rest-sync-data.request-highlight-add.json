@@ -1,0 +1,17 @@
+{
+  "revision": "vXVBokvmktlTYbt8GBkbdc+yMZgMJzQNMwBgm+4XVPUzyzLIOZTcxGsPmPWySpedk9yrsUonISPHw+Kwd539kJQX6x8933NH0Hhp9gOoSPfakpEel4/uiG+kHpq0GqrS",
+  "patches": [
+    {
+      "path": "/publications/DT0400.9783739673417_A27522964/comments",
+      "value": {
+        "revision": null,
+        "text": "Dass sie Mysterien bürgen, die ihrer aller Leben von Grund auf veränderten. Er wollte studieren, doch gehörte er nur einem kleinen Farmerstamm an. Der bedeutungslos, weit außerhalb der großen Ansiedlungen, seine Au",
+        "endPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/11/1:682)",
+        "modified": 1612127738093,
+        "startPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/11/1:463)",
+        "transientId": "11"
+      },
+      "op": "add"
+    }
+  ]
+}

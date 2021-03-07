@@ -46,6 +46,8 @@ Header
     Example: ``$Version=1``
 
 GET parameters
+  ``fullResponse``
+    Optional. Values: ``true``
   ``page``
     Example: ``0``
   ``size``

@@ -1,0 +1,18 @@
+{
+  "revision": "mpUEbwYtp/eTagD0N86Ypvl4Mzbf6ddMxlIZRmiD007iIIVRjSkpSWU5SS/bYaVeN4irJYl9nIs8N1Z1O8k9r4yZPEN6LkrJ03n7hG73yWEkJBqK7dQr8rNheL8GgQGC",
+  "patches": [
+    {
+      "path": "/publications/DT0400.9783739673417_A27522964/comments",
+      "value": {
+        "revision": null,
+        "text": "Bibliotheken",
+        "endPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/11/1:864)",
+        "note": "really?",
+        "modified": 1612127863357,
+        "startPosition": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/11/1:852)",
+        "transientId": "12"
+      },
+      "op": "add"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "revision": "vXVBokvmktlTYbt8GBkbdc+yMZgMJzQNMwBgm+4XVPUzyzLIOZTcxGsPmPWySpedk9yrsUonISPHw+Kwd539kJQX6x8933NH0Hhp9gOoSPfakpEel4/uiG+kHpq0GqrS",
+  "patches": [
+    {
+      "op": "remove",
+      "path": "/publications/DT0400.9783739673417_A27522964/dogears/606874450",
+      "value": {
+        "revision": "vXVBokvmktlTYbt8GBkbdc+yMZgMJzQNMwBgm+4XVPWdBAxDuBxbQJfnRXNZ4kSW2jY9yt5T2BQHYyn0oOefNmoJQlBJc++COD/meOP71PA/NsIvqt8YDoldSv5Q+CFpAs0HInj5rcupcKXBU4WURw==",
+        "modified": 1612127588570,
+        "position": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/11/1:114)",
+        "name": "um hochzukommen, so groß war er geworden. Bald kam die Zeit, dass er ein eigenes Nest gründen würde. Doch seine Interessen lagen woanders. Er wollte die Pyramiden erforschen, hinter ihre Geheimnisse s"
+      }
+    }
+  ]
+}

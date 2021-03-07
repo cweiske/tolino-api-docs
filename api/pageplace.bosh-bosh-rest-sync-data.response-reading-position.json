@@ -1,0 +1,17 @@
+{
+  "revision": "re5zwHogt+YaBKoqI/FPaER+kwC+lp76xohw4+17pWOQ/NPM4AJQbeRddT3Tl2PFYhMbsJy1mYLWJXtvb3bvcgTJ1mcFy/qfb6QqypvFhZK8AloBfu3iGAc7idteGLzb",
+  "patches": [
+    {
+      "op": "replace",
+      "path": "/publications/DT0400.9783739673417_A27522964/bookmark/606779074",
+      "value": {
+        "revision": "re5zwHogt+YaBKoqI/FPaER+kwC+lp76xohw4+17pWMpTJvUvgIModh4mMwgErEgAEsLMc19cJBs9VIeKIUZUZtKiHHD+M55cQ6+FwLBQkq3nd1fF9cO8QLcAoSFtwBa63M/JbWH85fh4BsuqEfX5g==",
+        "modified": 1612116637854,
+        "progress": 0.41666666,
+        "position": "OEBPS/caterina-di-montebasso-das-relikt_0.html#point(/1/2/1/8/1:0)",
+        "currentPosition": "5",
+        "lastPosition": "12"
+      }
+    }
+  ]
+}
