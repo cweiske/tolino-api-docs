@@ -1,0 +1,10 @@
+{
+  "contentDeleteRequest": {
+    "deleteAll": true,
+    "content": [
+      {
+        "deliverableId": "bosh_3_395490135492823841139311838"
+      }
+    ]
+  }
+}

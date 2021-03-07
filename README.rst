@@ -20,10 +20,14 @@ Use cases
 *********
 .. include:: api/usecase-login.rst
 .. include:: api/usecase-sync.rst
+.. include:: api/usecase-upload.rst
 
 
 API calls
 *********
+.. include:: api/pageplace.bosh-bosh-rest-content-delete.rst
+.. include:: api/pageplace.bosh-bosh-rest-cover.rst
+.. include:: api/pageplace.bosh-bosh-rest-cover-xxx-yyy.rst
 .. include:: api/pageplace.bosh-bosh-rest-dictionary-list.rst
 .. include:: api/pageplace.bosh-bosh-rest-handshake-resellers.rst
 .. include:: api/pageplace.bosh-bosh-rest-inventory-count.rst
@@ -31,6 +35,7 @@ API calls
 .. include:: api/pageplace.bosh-bosh-rest-recommendation-xyz.rst
 .. include:: api/pageplace.bosh-bosh-rest-sync-data.rst
 .. include:: api/pageplace.bosh-bosh-rest-time.rst
+.. include:: api/pageplace.bosh-bosh-rest-upload.rst
 .. include:: api/pageplace.bosh-bosh-rest-userid-xxx.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-registerhw.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-resellerconfig.rst

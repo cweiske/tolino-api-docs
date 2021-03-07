@@ -1,0 +1,8 @@
+{
+    "ResponseInfo": {
+        "message": "Cover uploaded successfully.",
+        "requestId": "41d3243f-6d7a-489a-8d98-b3f7f55cb794",
+        "responseStatus": 317,
+        "serviceName": "cover[POST]"
+    }
+}
