@@ -10,6 +10,16 @@ GET Parameters
   ``responseStatus=204``
     Always there
 
+Headers
+  ``User-Agent``
+    ``Dalvik/1.6.0 (Linux; U; Android 4.4.2; tolino Build/KOT49H)``
+  ``Host``
+    ``bosh.pageplace.de``
+  ``Connection``
+    ``Keep-Alive``
+  ``Accept-Encoding``
+    ``gzip``
+
 
 Response
 ========

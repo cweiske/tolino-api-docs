@@ -9,10 +9,15 @@ Step 1 of the `upload process`_.
 Request
 =======
 Header
-  FIXME: Headers
+  Nearly identical to the `bosh v1 header set`_, but not exactly the same.
+  No ``client_type``, no ``client_version``.
 
   ``Content-Type``
     ``multipart/form-data; boundary="Boundary1612163626238"``
+  ``Content-Transfer-Encoding``
+    ``binary``
+  ``Content-Length``
+    Depending on the request body.
 
 Request body
   Control data

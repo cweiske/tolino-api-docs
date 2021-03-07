@@ -9,6 +9,9 @@ Part of the `Sync process`_.
 Request
 =======
 Header
+  Similar to `bosh v1 header set`_, but not exactly the same.
+  Uses ``reseller_id`` instead of ``m_id`` and does not send the ``client_version``.
+
   ``t_auth_token``
     OAuth token obtained from `POST https://thalia.de/auth/oauth2/token`_.
 
