@@ -1,0 +1,15 @@
+{
+    "patches": [
+        {
+            "op": "remove",
+            "path": "/publications/DT0400.9783739673417_A27522964/tags/606892107",
+            "value": {
+                "category": "collection",
+                "modified": 1612300784084,
+                "name": "Zweicoll",
+                "revision": "IDuWzVIjHLLhWI8zhrdT+7lyuQkwWknldNeVL4voUd0ahg/2eGd/j93dXHBRukgiKYMF5Xi3SBEVyOj7dhFXHga9qE2T18SXsqCja+t4ASSoHNAQcfClmoj8zMhvPhuTk85ro39FJOV5kC9PNgMHaA=="
+            }
+        }
+    ],
+    "revision": "IDuWzVIjHLLhWI8zhrdT+7lyuQkwWknldNeVL4voUd01s16ycIpz+bNde974gSr8pRPtEhxfF7HQ8DwLiWqCR2ByQCJzLSgngatg3CZD0nuxKKzpU2OJe9V5kk6viW/9"
+}

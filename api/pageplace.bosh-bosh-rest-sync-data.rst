@@ -39,17 +39,24 @@ Request body parameters
   ``patches``
     Array of changes.
 
-    No data to sync: Empty array ``[]``.
+    When no data to sync:
+
+    - in the request: Empty array ``[]``.
+    - in the response: Property ``patches`` is omitted.
 
     Changes are objects with the following properties:
 
     ``op``
       The patch operation: ``add``, ``replace``, ``remove``
 
-      ``replace`` is used to update the reading position.
+      ``replace`` is used to update the reading position or to rename
+      a collection.
 
     ``path``
-      Example: ``/publications/DT0400.9783739673417_A27522964/bookmark/606779074``
+      Examples:
+
+      - ``/publications/DT0400.9783739673417_A27522964/bookmark/606779074``
+      - ``/publications/DT0400.9783641243609_A40398678/tags``
 
       Consists of several parts:
 
@@ -60,7 +67,11 @@ Request body parameters
          - ``bookmark`` is the reading position
          - ``dogears`` when bookmarking a page in the e-book
          - ``comments`` when highlighting/marking some text or adding a note
-      4. FIXME: Some ID.
+         - ``tags`` for collection management
+      4. Server-side database ID.
+
+         When doing ``op=add`` requests, the ID is only in the response,
+         but not in the request.
 
     ``value``
       Details of the change. Properties depend on the type.
@@ -77,7 +88,9 @@ Request body parameters
       ``revision``
         FIXME. Type: String.
 
-        FIXME: Can be ``null``. When?
+        FIXME: Can be ``null``:
+
+        - When the book is added to a new collection.
 
         The patch part revisions share some prefix with the patch revision,
         but are a bit longer.
@@ -87,6 +100,12 @@ Request body parameters
         the new server revision.
 
         Example: ``Lmu7TngaxhKWHdv2FFktQNcGFPmnOshpANcqFEx7udpEDvQDdiq93W8ryZG4oSfm9D9sp2Aowkhu/1wg8qj4PglnxUFM96DOLgZMd9NVnTByM/ZG1vgkHHCrqwpA/7bO67OjTjo1TLKVL442Lx3sGw==``
+      ``category``
+        Known values:
+
+        - ``collection`` (add or remove book from a collection (group of books))
+
+        Only for ``tags`` (collection) patches.
       ``progress``
         Reading progress in the ranging from 0-1. Type: Float.
 
@@ -106,15 +125,18 @@ Request body parameters
 
         Example: ``"12"``
       ``transientId``
-        FIXME. Type: String.
+        FIXME. Type: String. String Content: Integer.
 
-        Only when ``op=add`` on ``dogears`` (bookmark) and ``comments``.
+        Only when ``op=add`` on ``dogears`` (bookmark), ``comments``
+        and ``tags`` (collection).
 
-        Example: ``"3"``
+        Example: ``"3"``, ``"50"``.
       ``name``
-        Text on the bookmarked page. Type: String.
+        ``dogears``: Text on the bookmarked page. Type: String.
 
-        Only for ``dogears`` (bookmark) add+remove operations.
+        ``tags``: Name of the collection (book group).
+
+        Only for ``dogears`` (bookmark) and ``tags`` add+remove operations.
       ``text``
         Highlighted text. Type: String
 
@@ -234,6 +256,14 @@ Remove a note
 -------------
 
 .. include:: pageplace.bosh-bosh-rest-sync-data.response-note-remove.json
+   :code:
+
+
+Remove from collection
+----------------------
+Here the book gets removed from the group (collection) "Zweicoll".
+
+.. include:: pageplace.bosh-bosh-rest-sync-data.response-collection-remove.json
    :code:
 
 
