@@ -25,6 +25,8 @@ Use cases
 
 API calls
 *********
+.. include:: api/pageplace.bosh-bosh-rest-cloud-downloadinfo.rst
+.. include:: api/pageplace.bosh-bosh-rest-content-xxx-yyy.rst
 .. include:: api/pageplace.bosh-bosh-rest-content-delete.rst
 .. include:: api/pageplace.bosh-bosh-rest-cover.rst
 .. include:: api/pageplace.bosh-bosh-rest-cover-xxx-yyy.rst
