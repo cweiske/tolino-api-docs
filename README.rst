@@ -42,8 +42,13 @@ API calls
 .. include:: api/pageplace.bosh-bosh-rest-v2-registerhw.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-resellerconfig.rst
 .. include:: api/pageplace.family-v1-family.rst
+.. include:: api/pageplace.family-v1-family-post.rst
+.. include:: api/pageplace.family-v1-family-members-xxx.rst
 .. include:: api/pageplace.family-v1-myself.rst
+.. include:: api/pageplace.family-v1-myself-put.rst
 .. include:: api/pageplace.family-v1-shares.rst
+.. include:: api/pageplace.family-v1-shares-delete.rst
+.. include:: api/pageplace.family-v1-shares-post.rst
 .. include:: api/pageplace.inventory-v2-inventory.rst
 .. include:: api/thalia-auth-oauth2-authorize.rst
 .. include:: api/thalia-auth-oauth2-token-post.rst

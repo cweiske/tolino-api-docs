@@ -29,5 +29,5 @@ Family members
 --------------
 Example:
 
-.. include:: pageplace.family-v1-shares.response-2books.json
+.. include:: pageplace.family-v1-shares.response.json
    :code:
