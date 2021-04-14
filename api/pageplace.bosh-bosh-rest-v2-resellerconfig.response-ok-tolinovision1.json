@@ -1,0 +1,17 @@
+{
+  "reseller_id": 3,
+  "client_type": "TOLINO_VISION_1",
+  "lastModified": 1603111725000,
+  "config": {
+    "URL_HANDSHAKE": "https://www.pageplace.de/media/client/handshake/index.html",
+    "STRING_BRAND_NAME": "Thalia.de",
+    "FAMILY_SHARING_ACTIVE": "true",
+    "IS_LCP_ACTIVATED": "false",
+    "URL_BOOKSHELF": "https://bosh.pageplace.de/bosh/rest/",
+    "ENABLE_DATA_RECOVERY": "true",
+    "URL_DEVICE_MANAGEMENT": "https://www.pageplace.de/media/client/handshake/index.html",
+    "ADVERTISING_REDIRECT_BASE": "redirect.mytolino.com",
+    "LCP_ACTIVATED": "true",
+    "SHOP_BASE": "https://ereader.thalia.de/de.thalia.ers.artikel/api/2004/artikel/details/?einsprung=reco"
+  }
+}

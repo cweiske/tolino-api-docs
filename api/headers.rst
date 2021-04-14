@@ -28,7 +28,12 @@ Headers common in all HTTP requests to ``https://bosh.pageplace.de/bosh/rest/...
 
   Example: ``3``
 ``hardware_id``
-  FIXME: Serial number of the ebook reader?
+  Serial number of the ebook reader.
+
+  Second part of the serial number that can be obtained via shell::
+
+    $ getprop ro.serialno
+    60239815,665fc389ef4e47258c5db9fa7821bd19
 
   Example: ``665fc389ef4e47258c5db9fa7821bd19``
 ``Content-Type``
@@ -56,11 +61,18 @@ family v1 header set
 
   Example: ``3``
 ``Hardware-Id``
+  Serial number of the ebook reader.
+
+  Second part of the serial number that can be obtained via shell::
+
+    $ getprop ro.serialno
+    60239815,665fc389ef4e47258c5db9fa7821bd19
+
   Example: ``665fc389ef4e47258c5db9fa7821bd19``
 ``Content-Type``
   ``application/json; charset=UTF-8``
 
-  This is a lie; there is no request body.
+  Always set even if there is no request body.
 ``client_type``
   Example: ``TOLINO_VISION_3``
 ``client_version``

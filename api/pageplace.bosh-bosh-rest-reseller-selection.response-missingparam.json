@@ -1,0 +1,8 @@
+{
+  "ResponseInfo": {
+    "serviceName": "",
+    "responseStatus": -1,
+    "message": "Required String parameter 'client_type' is not present",
+    "requestId": "b2e2aaaf-32a0-4584-ba74-23c3a7301f08"
+  }
+}

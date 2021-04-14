@@ -58,3 +58,15 @@ Example for headers ``reseller_id:3`` and ``client_type:TOLINO_VISION_3``:
 
 .. include:: pageplace.bosh-bosh-rest-v2-resellerconfig.response-ok.json
    :code:
+
+
+Example for headers ``reseller_id:3`` and ``client_type:TOLINO_VISION_2``:
+
+.. include:: pageplace.bosh-bosh-rest-v2-resellerconfig.response-ok-tolinovision2.json
+   :code:
+
+
+Example for headers ``reseller_id:3`` and ``client_type:TOLINO_VISION_1``:
+
+.. include:: pageplace.bosh-bosh-rest-v2-resellerconfig.response-ok-tolinovision1.json
+   :code:

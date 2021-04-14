@@ -1,0 +1,13 @@
+{
+  "resellerSelectionResponse": {
+    "resellerSelection": [
+      {
+        "resellerId": 3,
+        "resellerName": "Thalia.de",
+        "logo": "https://download.pageplace.de/partnerlogo/ereader/212ppi/3_resellerselectionlogo_212ppi.png",
+        "showPromotion": false,
+        "descriptions": []
+      }
+    ]
+  }
+}

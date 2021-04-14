@@ -1,0 +1,8 @@
+{
+  "ResponseInfo": {
+    "serviceName": "reseller/selection[GET]",
+    "responseStatus": -90,
+    "message": "No hardware found for given id.",
+    "requestId": "baf7cd5d-93af-4000-a172-f7dfd6fd4493"
+  }
+}

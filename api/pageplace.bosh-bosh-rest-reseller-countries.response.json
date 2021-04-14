@@ -1,0 +1,145 @@
+{
+  "resellerCountryResponse": {
+    "resellerCountryGroups": [
+      {
+        "languageCode": "DE",
+        "resellerCountries": [
+          {
+            "languageTag": "de-DE",
+            "language": "Deutsch",
+            "country": "Deutschland",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "Deutsch",
+            "country": "Schweiz",
+            "countryCode": "CH"
+          },
+          {
+            "languageTag": "de-AT",
+            "language": "Deutsch",
+            "country": "Österreich",
+            "countryCode": "AT"
+          }
+        ]
+      },
+      {
+        "languageCode": "EN",
+        "resellerCountries": [
+          {
+            "languageTag": "de-AT",
+            "language": "German",
+            "country": "Austria",
+            "countryCode": "AT"
+          },
+          {
+            "languageTag": "de-DE",
+            "language": "German",
+            "country": "Germany",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "German",
+            "country": "Switzerland",
+            "countryCode": "CH"
+          }
+        ]
+      },
+      {
+        "languageCode": "FR",
+        "resellerCountries": [
+          {
+            "languageTag": "de-DE",
+            "language": "allemand",
+            "country": "Allemagne",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-AT",
+            "language": "allemand",
+            "country": "Autriche",
+            "countryCode": "AT"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "allemand",
+            "country": "Suisse",
+            "countryCode": "CH"
+          }
+        ]
+      },
+      {
+        "languageCode": "ES",
+        "resellerCountries": [
+          {
+            "languageTag": "de-DE",
+            "language": "alemán",
+            "country": "Alemania",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-AT",
+            "language": "alemán",
+            "country": "Austria",
+            "countryCode": "AT"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "alemán",
+            "country": "Suiza",
+            "countryCode": "CH"
+          }
+        ]
+      },
+      {
+        "languageCode": "IT",
+        "resellerCountries": [
+          {
+            "languageTag": "de-AT",
+            "language": "tedesco",
+            "country": "Austria",
+            "countryCode": "AT"
+          },
+          {
+            "languageTag": "de-DE",
+            "language": "tedesco",
+            "country": "Germania",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "tedesco",
+            "country": "Svizzera",
+            "countryCode": "CH"
+          }
+        ]
+      },
+      {
+        "languageCode": "NL",
+        "resellerCountries": [
+          {
+            "languageTag": "de-DE",
+            "language": "Duits",
+            "country": "Duitsland",
+            "countryCode": "DE"
+          },
+          {
+            "languageTag": "de-AT",
+            "language": "Duits",
+            "country": "Oostenrijk",
+            "countryCode": "AT"
+          },
+          {
+            "languageTag": "de-CH",
+            "language": "Duits",
+            "country": "Zwitserland",
+            "countryCode": "CH"
+          }
+        ]
+      }
+    ],
+    "rebrandable": false
+  }
+}

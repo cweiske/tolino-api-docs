@@ -14,10 +14,13 @@ General information
 *******************
 .. include:: api/headers.rst
 .. include:: api/domains.rst
+.. include:: api/doc-official.rst
+.. include:: api/identifiers.rst
 
 
 Use cases
 *********
+.. include:: api/usecase-setup.rst
 .. include:: api/usecase-login.rst
 .. include:: api/usecase-sync.rst
 .. include:: api/usecase-upload.rst
@@ -35,6 +38,9 @@ API calls
 .. include:: api/pageplace.bosh-bosh-rest-inventory-count.rst
 .. include:: api/pageplace.bosh-bosh-rest-ping.rst
 .. include:: api/pageplace.bosh-bosh-rest-recommendation-xyz.rst
+.. include:: api/pageplace.bosh-bosh-rest-reseller-countries.rst
+.. include:: api/pageplace.bosh-bosh-rest-reseller-selection.rst
+.. include:: api/pageplace.bosh-bosh-rest-reseller-selection-report-post.rst
 .. include:: api/pageplace.bosh-bosh-rest-sync-data.rst
 .. include:: api/pageplace.bosh-bosh-rest-time.rst
 .. include:: api/pageplace.bosh-bosh-rest-upload.rst
@@ -52,6 +58,12 @@ API calls
 .. include:: api/pageplace.inventory-v2-inventory.rst
 .. include:: api/thalia-auth-oauth2-authorize.rst
 .. include:: api/thalia-auth-oauth2-token-post.rst
+
+
+Other requests
+**************
+.. include:: api/google.clients3-generate_204.rst
+.. include:: api/mytolino-tolino-status.rst
 
 
 About
