@@ -1,13 +1,14 @@
 =======
 Domains
 =======
+
 Domains that are used by the Tolino Vision 3 HD.
 
 
 Buch.de
 =======
 ``auth.buch.de``
-  FIXME
+  Had been used by Thalia.de for authentication, but now has been moved to directly access thalia.de.
 
 
 Google
