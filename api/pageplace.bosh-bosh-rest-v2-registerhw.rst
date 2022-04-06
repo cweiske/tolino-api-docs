@@ -10,24 +10,14 @@ Request
 =======
 
 Header
+  See `bosh v2 header set`_, plus:
+
   ``t_auth_token``
     OAuth token obtained from `POST https://thalia.de/auth/oauth2/token`_.
 
     Example: ``eyJhbGciOiJSUzI1NiJ9.eyJhdWRpZW5jZSI6InRyZWFkZXJ2aXNpb24zIiw...``
   ``reseller_id``
     Example: ``3``
-  ``hardware_type``
-    Example: ``tolino_vision_3``
-  ``os_version``
-    Example: ``4.4.2``
-  ``language_code``
-    Example: ``en``
-  ``hardware_id``
-    Example: ``665fc389ef4e47258c5db9fa7821bd19``
-  ``client_type``
-    Example: ``TOLINO_VISION_3``
-  ``client_version``
-    Example: ``14.1.0``
   ``Content-Type``
     ``text/plain; charset=UTF-8``
 

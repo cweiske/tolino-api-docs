@@ -26,7 +26,17 @@ Response
 ========
 HTTP status code ``200 OK``.
 
-Example:
+
+Response body definition
+------------------------
+
+``publicationType``
+  Can be empty or one of: ``EBOOK``, ``EMAGAZINE``, ``EPAPER`` or ``EDATA``.
+  Not used.
+
+
+Example
+-------
 
 .. include:: pageplace.bosh-bosh-rest-recommendation-xyz.response.json
    :code:

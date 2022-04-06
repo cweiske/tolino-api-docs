@@ -1,0 +1,42 @@
+{
+  "initAppResponse": {
+    "deviceKey": "",
+    "update": 2,
+    "updateVersion": "15.2.0",
+    "userId": "",
+    "config": [
+      {
+        "key": "CHANGELOG_NL",
+        "value": "Met deze update hebben we de zoekmachine van de webbrowser gewijzigd in een meer privacyvriendelijke service. Verder hebben we de levensduur van de batterij verbeterd, de prestaties verbeterd en meer stabiliteit aan uw tolino toegevoegd."
+      },
+      {
+        "key": "CHANGELOG_EN",
+        "value": "With this update we have changed the web browser search engine to more privacy friendly service. Furthermore, we have improved the battery life, enhanced the performance and added more stability to your tolino."
+      },
+      {
+        "key": "CHANGELOG_FR",
+        "value": "Avec cette mise à jour, nous avons changé le moteur de recherche du navigateur web pour un service plus respectueux de la vie privée. De plus, nous avons amélioré l'autonomie de la batterie, les performances et la stabilité de votre tolino."
+      },
+      {
+        "key": "DOWNLOAD_FILE_MD5",
+        "value": "9bebf4437a81cfe1106f89b44e611dd6"
+      },
+      {
+        "key": "CHANGELOG_ES",
+        "value": "Con esta actualización hemos cambiado el motor de búsqueda del navegador por un servicio más respetuoso con la privacidad. Además, hemos mejorado la duración de la batería, incrementado el rendimiento y añadido más estabilidad en tu tolino."
+      },
+      {
+        "key": "CHANGELOG_DE",
+        "value": "Mit diesem Update haben wir die Suchmaschine im Browser auf einen datenschutzfreundlicheren Anbieter umgestellt sowie Deinen tolino weiter optimiert, indem wir die Fehler behoben und die Stabilität sowie die Batterielaufzeit erhöht haben. Genieße nun wie gewohnt weiter spannende Lese-Abenteuer auf Deinem tolino!"
+      },
+      {
+        "key": "DOWNLOAD_URL",
+        "value": "https://download.pageplace.de/ereader/15.2.0/OS44/update.zip"
+      },
+      {
+        "key": "CHANGELOG_IT",
+        "value": "Con questo aggiornamento abbiamo cambiato il motore di ricerca del browser web con un servizio più rispettoso della privacy. Inoltre, abbiamo migliorato la durata della batteria, migliorato le prestazioni ed aggiunto più stabilità al tuo tolino."
+      }
+    ]
+  }
+}

@@ -27,20 +27,49 @@ Internal URLs
 ``epublishing://openbook``
   FIXME
 
+  Parameters:
+    ``deliverableid``
+      FIXME
+
 ``epublishing://openbook_skoti``
   FIXME
 
 ``epublishing://openextract``
   FIXME
 
+  Parameters (all 4 must be passed):
+    ``extractcoverurl``
+      FIXME
+
+    ``extractdeliverableid``
+      FIXME
+
+    ``extractdownloadurl``
+      FIXME
+
+    ``extractpurchaseurl``
+      FIXME
+
+
 ``epublishing://opensearchresult``
   FIXME
 
 ``epublishing://requestauth``
-  FIXME
+  FIXME "Open login"
+
+  Parameters:
+    ``loginfailureurl``
+      FIXME
+
+    ``targeturl``
+      FIXME
 
 ``epublishing://resellerChangeFinishFactoryReset``
   FIXME
 
 ``epublishing://search``
   FIXME
+
+  Parameters:
+    ``q``
+      Search term

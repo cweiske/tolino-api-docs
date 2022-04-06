@@ -47,6 +47,7 @@ API calls
 .. include:: api/pageplace.bosh-bosh-rest-userid-xxx.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-registerhw.rst
 .. include:: api/pageplace.bosh-bosh-rest-v2-resellerconfig.rst
+.. include:: api/pageplace.bosh-bosh-rest-v2-versioncheck.rst
 .. include:: api/pageplace.family-v1-family.rst
 .. include:: api/pageplace.family-v1-family-post.rst
 .. include:: api/pageplace.family-v1-family-members-xxx.rst

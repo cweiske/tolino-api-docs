@@ -46,6 +46,30 @@ Headers common in all HTTP requests to ``https://bosh.pageplace.de/bosh/rest/...
   Example: ``14.1.0``
 
 
+bosh v2 header set
+==================
+Headers common in all HTTP requests to ``https://bosh.pageplace.de/bosh/rest/v2/...``.
+
+``hardware_type``
+  Example: ``tolino_vision_3``
+``os_version``
+  Android version
+
+  Example: ``4.4.2``
+``language_code``
+  Example: ``en``
+``hardware_id``
+  Example: ``665fc389ef4e47258c5db9fa7821bd19``
+``client_type``
+  Example: ``TOLINO_VISION_3``
+``client_version``
+  Tolino firmware version
+
+  Example: ``14.1.0``, ``15.2.0``
+
+
+
+
 family v1 header set
 ====================
 ``Authorization``

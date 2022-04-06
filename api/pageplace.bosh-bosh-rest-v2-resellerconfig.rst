@@ -15,32 +15,16 @@ etc.
 Request
 =======
 Header
+  See `bosh v2 header set`_, plus:
+
   ``ifmodifiedsince``
     Timestamp with microseconds of last reseller config file version
 
     Example: ``1603111725000``
   ``reseller_id``
     Example: ``3``
-
-    Required. "400 Bad Request" if missing.
-  ``hardware_type``
-    Example: ``tolino_vision_3``
-  ``os_version``
-    Android version
-
-    Example: ``4.4.2``
-  ``language_code``
-    Example: ``en``
-  ``hardware_id``
-    Example: ``665fd389ea4e47228c5db8fa7821bd23``
   ``client_type``
-    Example: ``TOLINO_VISION_3``
-
     Required. "400 Bad Request" if missing.
-  ``client_version``
-    Tolino firmware version
-
-    Example: ``14.1.0``
 
 
 Response
