@@ -66,6 +66,7 @@ Other requests
 .. include:: api/google.clients3-generate_204.rst
 .. include:: api/mytolino-tolino-status.rst
 .. include:: api/internal-urls.rst
+.. include:: api/javascript.rst
 
 
 About
