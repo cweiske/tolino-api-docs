@@ -48,4 +48,4 @@ that provides the interface to the Tolino UI.
   FIXME
 
 ``screenController.processHTML("<html>")``
-  Does nothing (Firmware 15.2)
+  Logs the HTML content to the application log.
